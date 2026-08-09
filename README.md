@@ -2,7 +2,7 @@
 ### Transforming Raw Data into Actionable Insights
 ## Data Analyst | Business Intelligence | SQL | Python | Power BI
 
-I am an aspiring Data Analyst with a passion for transforming raw data into actionable business insights.
+I am an Data Analyst with a passion for transforming raw data into actionable business insights.
 
 I enjoy solving business problems using data analysis, SQL, Python, Excel and Power BI while continuously expanding my knowledge in machine learning and predictive analytics.
 
@@ -14,7 +14,7 @@ My goal is to help organisations make informed, data-driven decisions through me
 
 - 📍 Johannesburg, South Africa
 - 📊 Interested in Data Analytics & Business Intelligence
-- 📈 Currently learning Machine Learning with Scikit-learn
+- 📈 Currently enhancing Machine Learning with Scikit-learn
 - 💡 Passionate about Business Analytics & Data Storytelling
 - 🎯 Seeking opportunities as a Data Analyst / BI Analyst
 
@@ -148,11 +148,11 @@ Included:
 - Business Interpretation
 
 ➡ Repository:
-(Add GitHub Link)
+(https://github.com/lpqupe/Insurance_customer_Targeting_Analytics-.git)
 
 ---
 
-# Currently Learning
+# Constantly improving my skills in:
 
 - Machine Learning
 - Business Statistics
@@ -172,12 +172,12 @@ Included:
 # Let's Connect
 
 LinkedIn:
-(Add LinkedIn URL)
+(www.linkedin.com/in/lulu-qupe-b497823b2)
 
 Email:
-(Add Professional Email)
+(lpqupe@gmail.com)
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/lpqupe
 
 ---
