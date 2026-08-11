@@ -127,7 +127,7 @@ Analysed:
 - Customer Behaviour
 
 ➡ Repository:
-(Add GitHub Link)
+(https://github.com/lpqupe/hotel_reservation_sql.git)
 
 ---
 
