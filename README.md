@@ -88,7 +88,7 @@ Investigated the relationship between South African load shedding schedules and 
 - Business Recommendations
 
 ➡ Repository:
-(Add GitHub Link)
+(https://github.com/lpqupe/retail-sales-loadshedding-SQL-powerbi)
 
 ---
 
